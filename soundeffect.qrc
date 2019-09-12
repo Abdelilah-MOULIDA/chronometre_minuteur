@@ -1,4 +1,3 @@
-@ -0,0 +1,5 @@
 <RCC>
     <qresource prefix="/timer/effect">
         <file>timerEffect.wav</file>

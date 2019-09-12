@@ -1,4 +1,3 @@
-@@ -0,0 +1,203 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 
